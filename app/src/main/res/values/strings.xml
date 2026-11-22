@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Servicios Estudiantiles UTS</string>
+    <string name="institution_name">Unidades Tecnológicas de Santander</string>
+    <string name="institution_short">UTS</string>
+    <string name="title_dashboard">Inicio</string>
+    <string name="title_profile">Perfil Académico</string>
+    <string name="title_enrollment">Liquidación de Matrícula</string>
+    <string name="title_history">Historial Financiero</string>
+</resources>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Institucionales UTS -->
+    <color name="uts_green_primary">#006837</color>
+    <color name="uts_green_dark">#004D26</color>
+    <color name="uts_green_light">#8BC34A</color>
+    <color name="uts_amber_accent">#FBB03B</color>
+    <color name="uts_amber_dark">#E65100</color>
+    <color name="uts_surface">#F8FAF8</color>
+    <color name="uts_on_surface">#1A1C1A</color>
+</resources>
+
